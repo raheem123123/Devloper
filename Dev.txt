@@ -6,3 +6,5 @@ Jenkins
 .Net
 Kubernetes 
 Python 
+C++
+Java
